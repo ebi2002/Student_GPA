@@ -49,7 +49,5 @@ elif Avg_list[1] > Avg_list[0] and Avg_list[1] > Avg_list[2]:
 else:
     print(f"{name[2]} is the best student!!")
     
-    DIRTY Code!!!!
-    clean one is in the group
     
 '''
